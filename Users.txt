@@ -1,0 +1,38 @@
+[
+  {
+    "user ID":"101",
+    "username":"user1",
+    "name":"Daniel",
+    "house number":"12",
+    "postcode": "LE11 3TU",
+    "city":"Loughborough",
+    "role":"admin"
+  },
+  {
+    "user ID":"102",
+    "username":"user2",
+    "name":"Fen",
+    "house number":"14",
+    "postcode": "E20 3BS",
+    "city":"London",
+    "role":"customer"
+  },
+  {
+    "user ID":"103",
+    "username":"user3",
+    "name":"Emma",
+    "house number":"100",
+    "postcode": "BN1 3XP",
+    "city":"Brighton",
+    "role":"customer"
+  },
+  {
+    "user ID":"104",
+    "username":"user4",
+    "name":"Bowen",
+    "house number":"57",
+    "postcode": "PA3 2SW",
+    "city":"Glasgow",
+    "role":"customer"
+  }
+]
